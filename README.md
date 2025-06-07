@@ -33,7 +33,7 @@ Tenho meu perfil pessoal no Instagram e no LinkedIn, caso deseje entrar em conta
   />
 
 <img 
-      align="center" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojesusdev&theme=tokyonight&include_allcommits=true"
