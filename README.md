@@ -1,5 +1,5 @@
 # 👨🏾‍💻 pedrojesusdev
-**`Estudante de Programação e Ciência da Computação`**Add commentMore actions
+**`Estudante de Programação e Ciência da Computação`**
 
 Me chamo Pedro Jesus, tenho 18 anos, natural de Aracaju/Se. Atualmente cursando Ciência da Computação na Universidade Federal de Sergipe. Sou um jovem entusiasta atrás de oportunidades, pretendendo futuramente me tornar um engenheiro de software backend.
 Tenho meu perfil pessoal no Instagram e no LinkedIn, caso deseje entrar em contato comigo!
