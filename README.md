@@ -2,9 +2,9 @@
 **`Computer science student`**
 **`Estudante de Programação e Ciência da Computação`**
 
-My name is Pedro Jesus, I'm 18 years old, and I'm from Aracaju/Se. I'm currently studying Computer Science at the Federal University of Sergipe. I'm a young enthusiast looking for opportunities, and I intend to become a backend software engineer in the future. I have my personal profile on Instagram and LinkedIn, in case you want to talk to me!
+My name is Pedro Jesus, I'm 18 years old, and I'm from Aracaju/Se. I'm currently studying Computer Science at the Federal University of Sergipe. I'm a young enthusiast looking for opportunities. I have my personal profile on Instagram and LinkedIn, in case you want to talk to me!
 
-Me chamo Pedro Jesus, tenho 18 anos, natural de Aracaju/Se. Atualmente cursando Ciência da Computação na Universidade Federal de Sergipe. Sou um jovem entusiasta atrás de oportunidades, pretendendo futuramente me tornar um engenheiro de software backend.
+Me chamo Pedro Jesus, tenho 18 anos, natural de Aracaju/Se. Atualmente cursando Ciência da Computação na Universidade Federal de Sergipe. Sou um jovem entusiasta atrás de oportunidades.
 Tenho meu perfil pessoal no Instagram e no LinkedIn, caso deseje entrar em contato comigo!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-jesus-8084021b5)
