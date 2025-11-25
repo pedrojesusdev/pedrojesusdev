@@ -20,31 +20,3 @@ Tenho meu perfil pessoal no Instagram e no LinkedIn, caso deseje entrar em conta
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
-
-
-<br/>
-<br/>
-
-### 📊 Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="190" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pedrojesusdev&show_icons=true&theme=tokyonight&include_allcommits=true&cache_seconds=3600"
-  />
-
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojesusdev&theme=tokyonight&include_allcommits=true&cache_seconds=3600"
-  />
-
-</p>
-
